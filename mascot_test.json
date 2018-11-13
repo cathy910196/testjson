@@ -2,7 +2,7 @@
     "Value": {
         "Value": {
             "RecentMonth": [
-               "2018,11¤ë","2018,10¤ë","2018,9¤ë"
+               "2018,11","2018,10","2018,9"
             ],
             
             "Contect": [
@@ -10,56 +10,55 @@
                     "Month": 11,
                     "Date": "2018/11/12",
                     "Time": "17:52",
-                    "StoreName": "¦è¤Ùº~¤f©±",
+                    "StoreName": "A STORE",
                     "UseItemNumber": 8,
-                    "UseItem": "¹}®Æ³U_Âû»L",
-                    "Prize": "´¹¹ôX10",
+                    "UseItem": "BAG_CHICKEN",
+                    "Prize": "coinX10",
                     "PrizeId": "143485eb-560f-4677-8ee0-331ae8cf9ef1",
                     "Memo": "today is so hot"
                 }, {
                     "Month": 11,
                     "Date": "2018/11/11",
                     "Time": "17:11",
-                    "StoreName": "¦è¤Ùº~¤f©±",
+                    "StoreName": "A STORE",
                     "UseItemNumber": 11,
-                    "UseItem": "¹}®Æ³U_Âû»L",
-                    "Prize": "´¹¹ôX11",
+                    "UseItem": "BAG_CHICKEN",
+                    "Prize": "coinX11",
                     "PrizeId": "143485eb-560f-4677-8ee0-331ae8cf9ef1",
                     "Memo": "i feel so boring"
                 }, {
                     "Month": 10,
                     "Date": "2018/10/10",
                     "Time": "17:52",
-                    "StoreName": "¦è¤Ùº~¤f©±",
+                    "StoreName": "A STORE",
                     "UseItemNumber": 10,
-                    "UseItem": "¹}®Æ³U_Âû»L",
-                    "Prize": "´¹¹ôX10",
+                    "UseItem": "BAG_CHICKEN",
+                    "Prize": "coinX10",
                     "PrizeId": "143485eb-560f-4677-8ee0-331ae8cf9ef1",
                     "Memo": "i am a app sd"
                 }, {
                     "Month": 9,
                     "Date": "2018/09/12",
                     "Time": "17:09",
-                    "StoreName": "¦è¤Ùº~¤f©±",
+                    "StoreName": "A STORE",
                     "UseItemNumber": 9,
-                    "UseItem": "¹}®Æ³U_Âû»L",
-                    "Prize": "´¹¹ôX9",
+                    "UseItem": "BAG_CHICKEN",
+                    "Prize": "coinX9",
                     "PrizeId": "143485eb-560f-4677-8ee0-331ae8cf9ef1",
                     "Memo": "why i wrinting json"
                 }, {
                     "Month": 9,
                     "Date": "2018/09/09",
                     "Time": "09:52",
-                    "StoreName": "¦è¤Ùº~¤f©±",
+                    "StoreName": "A STORE",
                     "UseItemNumber": 9,
-                    "UseItem": "¹}®Æ³U_Âû»L",
-                    "Prize": "´¹¹ôX9",
+                    "UseItem": "BAG_CHICKEN",
+                    "Prize": "coinX9",
                     "PrizeId": "143485eb-560f-4677-8ee0-331ae8cf9ef1",
                     "Memo": "aaaaaaaaaa"
                 }
             ]
-        },
-        "Message": "½ÐÂIÀ»»«ªG½L"
+        }
     },
     "Valid": true,
     "ResultMessage": "",
